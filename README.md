@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-- 🌱 I’m currently learning **Flutter for Mobile and Web Development 💻**
+- 🌱 I’m currently learning **<a href="https://flutter.dev/">Flutter</a> for Mobile and Web Development 💻**
 
-- 💬 Ask me about **Dart, Flutter**
+- 💬 Ask me about **Programming, Problem Solving, Mobile App Development**
 
 - 🎓    B.Sc in CSE 
 
-- 📫 How to reach me **shahnafizmanjoor@gmail.com**
+- 📫 How to reach me on <a href="https://www.linkedin.com/in/nnaaffiizzz/">Linkedin</a> or mail me at **shahnafizmanjoor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
