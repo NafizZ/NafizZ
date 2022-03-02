@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nafiz :)</h1>
-<h3 align="center">A Flutter Developer from Dhaka, Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Nafiz :)</h1>
+<h3 align="left">A Flutter Developer from Dhaka, Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
