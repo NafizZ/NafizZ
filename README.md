@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
-<h1 align="left">Hi, I'm Nafiz :)</h1>
-<h3 align="left">A Flutter Developer from Dhaka, Bangladesh</h3>
+<h1 align="left"> Hi, I'm Nafiz :)</h1>
+<h3 align="left">&#127919; A Flutter Developer from Dhaka, Bangladesh</h3>
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
