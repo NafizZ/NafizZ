@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **Programming, Problem Solving, Mobile App Development**
 
-- 🎓    B.Sc in CSE 
+- 🎓 B.Sc in CSE 
 
-- 📫 How to reach me on <a href="https://www.linkedin.com/in/nnaaffiizzz/">Linkedin</a> or mail me at **shahnafizmanjoor@gmail.com**
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/nnaaffiizzz/">Linkedin</a> or mail me at **shahnafizmanjoor@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
