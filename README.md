@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 <h1 align="left">Hi, I'm Nafiz :)</h1>
 <h3 align="left">A Flutter Developer from Dhaka, Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 - 📱 I’m currently learning **<a href="https://flutter.dev/">Flutter</a> for Mobile and Web Development 💻**
